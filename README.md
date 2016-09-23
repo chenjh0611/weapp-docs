@@ -8,13 +8,13 @@
 
 ### 开发文档
 
-[首页](http://jiji262.github.io/weapp-docs/index.html)
+[首页](http://jiji262.github.io/weapp-docs/docs/index.html)
 
-[介绍](http://jiji262.github.io/weapp-docs/introduction/index.html)
+[介绍](http://jiji262.github.io/weapp-docs/docs/introduction/index.html)
 
-[设计](http://jiji262.github.io/weapp-docs/design/index.html)
+[设计](http://jiji262.github.io/weapp-docs/docs/design/index.html)
 
-[运营](http://jiji262.github.io/weapp-docs/product/index.html)
+[运营](http://jiji262.github.io/weapp-docs/docs/product/index.html)
 
-[开发](http://jiji262.github.io/weapp-docs/api/index.html)
+[开发](http://jiji262.github.io/weapp-docs/docs/api/index.html)
 

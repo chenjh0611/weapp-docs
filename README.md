@@ -1,6 +1,6 @@
-##微信公众平台 |小程序 API文档
+### 微信公众平台 |小程序 API文档
 
-- 来自官方文档，因未获得小程序内侧权限用户无法访问，故创建此repo
+- 来自官方文档，因未获得小程序内测权限用户无法访问，故创建此repo
 - 本repo仅供学习研究之用，权责自负
 - 官方文档开放后本repo会被删除。
 
@@ -17,4 +17,8 @@
 [运营](http://jiji262.github.io/weapp-docs/product/index.html)
 
 [开发](http://jiji262.github.io/weapp-docs/api/index.html)
+
+### 来源
+
+代码来源于网络，本人也没有内测权限，请勿索取邀请码。
 

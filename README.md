@@ -2,7 +2,7 @@
 # [!!!deprecated!!!]
 
 
-## 官方文档已发布，本repo不再维护
+## 官方文档已开放访问，本repo不再维护
 
 
 [官方地址](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html) 

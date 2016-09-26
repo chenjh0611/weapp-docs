@@ -1,10 +1,16 @@
+
+## 官方文档已发布，本repo不再维护
+
+
+[官方地址](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html) 
+
+
 ### 微信公众平台 |小程序 API文档
 
 - 来自官方文档，因未获得小程序内测权限用户无法访问，故创建此repo
 - 本repo仅供学习研究之用，权责自负
 - 官方文档开放后本repo会被删除。
 
-[官方地址](https://mp.weixin.qq.com/wxopen/wawiki) - 非内测用户无法访问
 
 ### 开发文档（官方拷贝）*供非内测用户学习之用*
 
